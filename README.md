@@ -15,7 +15,7 @@ I am a Junior Python / Backend Developer with a 4-year engineering background in
 * 🎮 **[KuzenBot](link-do-repo)** – An undetectable, analytical desktop overlay for the Smite 2 game. Built in Python/PyQt6 with an asynchronous request system (QThread), local caching, and an integrated Auto-Updater via GitHub API.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/kacper-łamasz](https://www.linkedin.com/in/kacper-łamasz)
+* **LinkedIn:** [linkedin.com/in/kacper-lamasz](https://www.linkedin.com/in/kacper-lamasz)
 * **Email:** kacper.lamasz16@gmail.com
 
 ---
@@ -36,5 +36,5 @@ Jestem Junior Python / Backend Developerem z 4-letnim zapleczem inżynieryjnym w
 * 🎮 **[KuzenBot](link-do-repo)** – Niewykrywalny, analityczny overlay desktopowy do gry Smite 2. Zbudowany w Python/PyQt6 z systemem asynchronicznych zapytań (QThread), lokalnym cachingiem i zintegrowanym Auto-Updaterem.
 
 ### 📫 Kontakt
-* **LinkedIn:** [linkedin.com/in/kacper-łamasz](https://www.linkedin.com/in/kacper-łamasz)
+* **LinkedIn:** [linkedin.com/in/kacper-lamasz](https://www.linkedin.com/in/kacper-lamasz)
 * **Email:** kacper.lamasz16@gmail.com
